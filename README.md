@@ -1,6 +1,6 @@
 # Udemy Data Analysis
 
-<img src="/assests/entrylevel.png" height="100" align="right" />
+<img src="https://github.com/rutvi14/Dashboards/blob/main/assests/dash1.PNG" height="100" align="right" />
 
 
 ## Dashboard Link: https://public.tableau.com/app/profile/rutvi.rajesh/viz/Analysisofudemydata-Entryleveldataanalysischallenge/Dashboard1
@@ -18,12 +18,12 @@ It contains Tableau Dashboards which analyze how many courses are free/paid , Wh
 
 ### Udemy data analysis dash
 
-<img src="./assests/dash1.png" height="500px"/>
+<img src="https://github.com/rutvi14/Dashboards/blob/main/assests/dash1.PNG" height="500px"/>
 
 
 
 ### Second dashboard
 
-<img src="./assests/dash2.png" height="500px"/>
+<img src="https://github.com/rutvi14/Dashboards/blob/main/assests/dash1.PNG" height="500px"/>
 
 
